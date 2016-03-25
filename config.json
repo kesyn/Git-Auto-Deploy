@@ -13,7 +13,7 @@
       "branch": "master",
       "remote": "origin",
       "path": "~/sites/march",
-      "deploy": "echo deploying"
+      "deploy": "npm install"
     }
   ]
 }
