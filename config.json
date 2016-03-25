@@ -9,7 +9,7 @@
   ],
   "repositories": [
     {
-      "url": "git@bitbucket.org:kesynsoft/march.git",
+      "url": "git@bitbucket.org:kesynnet/march_deploy.git",
       "branch": "master",
       "remote": "origin",
       "path": "~/sites/march",
